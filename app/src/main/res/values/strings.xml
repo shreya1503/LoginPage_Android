@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Day1_Sample</string>
+    <string name="str_welcome">Welcome to Android Studio Programming</string>
+</resources>
